@@ -17,6 +17,13 @@ int map[ROWS][COLS]
    1,0,0,0,1,
    1,1,1,0,3,};
 
+int map2[ROWS][COLS]
+= {1,1,1,1,1,
+   2,0,0,0,0,
+   1,0,1,0,1,
+   1,0,0,0,1,
+   1,1,1,0,3,};
+
 class user {
 private:
 	int x;
